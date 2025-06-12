@@ -2,7 +2,8 @@
 
 This project allows users to create and manage a personalized profile page with customizable content, design elements, and social links.
 
-## 📄 File Descriptions
+<details>
+<summary>📄 File Descriptions</summary>
 
 ### `index.php`
 Handles user login by validating email input and setting up the session. Redirects to `dashboard.php` on success.
@@ -24,6 +25,8 @@ Pre-populates fields with existing user data for convenience.
 
 ### `preview.php`
 Public-facing profile page renderer. It uses stored user data to dynamically display the page as it would appear to others.
+
+</details>
 
 ---
 
