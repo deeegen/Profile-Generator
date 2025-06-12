@@ -1,6 +1,18 @@
-# Project Overview
+# Profile Generator
 
-This project allows users to create and manage a personalized profile page with customizable content, design elements, and social links.
+<details>
+<summary>## Overview</summary>
+Profile Generator is a user-friendly web application designed to help users create and customize personalized profile pages effortlessly. With an intuitive interface, users can register, and manage their profiles by adding personal information, customizing browser tab titles, setting favicons, and linking their social media accounts.
+
+This tool is ideal for individuals who want to enhance their online presence, particularly on platforms like GitHub, by crafting engaging and uniquely tailored profile pages. Whether you're showcasing your professional portfolio or simply sharing your social links, Profile Generator simplifies the process of building a polished and dynamic profile.
+</details>
+
+## Features
+- Secure user registration and login system
+- Easy profile information input and editing
+- Customizable browser tab titles and favicons
+- Social media integration for seamless linking
+- User dashboard for managing and previewing profiles
 
 <details>
 <summary>📄 File Descriptions</summary>
